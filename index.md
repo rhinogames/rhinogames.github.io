@@ -12,7 +12,7 @@
       content="Mark Otto, Jacob Thornton, and Bootstrap contributors"
     />
     <meta name="generator" content="Jekyll v3.8.5" />
-    <title>Starter Template · Bootstrap</title>
+    <title>Rhino Games Home</title>
 
     <link rel="canonical" href="css/starter-template/" />
 
